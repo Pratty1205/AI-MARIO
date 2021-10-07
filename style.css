@@ -1,0 +1,43 @@
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+.heading h3 {
+    display: inline;
+    margin-right: -55px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.heading button {
+    background-color: greenyellow;
+    color: black;
+    float: right;
+    font-weight: bold;
+}
+
+#linuk {
+    background-color: black;
+    color: white;
+    line-height: 2.5;
+    margin-bottom: 0px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url("console.png");
+    background-size: cover;
+    background-position: center;
+    padding-top: 60px;
+    padding-bottom: 45px;
+    padding-left: 8px;
+}
